@@ -1,7 +1,5 @@
 body {
-    background-image: url('مسار-الصورة.jpg');
-    background-size: cover;
-    background-position: center;
+    background-color: white !important;
 }
 
 .cuisiniste {
